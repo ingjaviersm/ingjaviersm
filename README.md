@@ -4,11 +4,11 @@
 
 I build software from real production experience.
 
-Currently building cloud ERP systems, backend platforms, production infrastructure and open-source tools.
+Everything I publish has first solved a real operational problem.
 
 ---
 
-## Current Focus
+## Building Right Now
 
 - Building **Metrify ERP**
 - Writing **Production Stories**
@@ -48,7 +48,7 @@ https://github.com/ingjaviersm/ErrorPilot
 
 ---
 
-## Find me
+## Connect
 
 - LinkedIn → https://linkedin.com/in/javiersalazarmireles
 - X → https://x.com/ingjaviersm
