@@ -1,16 +1,54 @@
-## Hi there 👋
+# Javier Salazar
 
-<!--
-**ingjaviersm/ingjaviersm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🚀 Turning busy days into easy flows — with software.
 
-Here are some ideas to get you started:
+I build software from real production experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building cloud ERP systems, backend platforms, production infrastructure and open-source tools.
+
+---
+
+## Current Focus
+
+- Building **Metrify ERP**
+- Writing **Production Stories**
+- Extracting production-tested tools into Open Source
+- Automation & Infrastructure
+- IoT
+
+---
+
+## Featured Projects
+
+### Metrify ERP
+
+Cloud ERP for inventory, sales, purchasing, finance, logistics and automation.
+
+🌐 https://metrifyerp.com
+
+---
+
+### ErrorPilot
+
+Production-tested observability and debugging tools extracted from real business software.
+
+https://github.com/ingjaviersm/ErrorPilot
+
+---
+
+## Latest Production Stories
+
+➡️ https://javiersalazar.dev/engineering
+
+---
+
+## Website
+
+🌐 https://javiersalazar.dev
+
+---
+
+## Find me
+
+- LinkedIn → https://linkedin.com/in/javiersalazarmireles
+- X → https://x.com/ingjaviersm
